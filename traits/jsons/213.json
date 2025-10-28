@@ -1,0 +1,32 @@
+{
+  "metadataId": 213,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/213.png",
+  "name": "Lil Mfers #213",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "dog"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "bear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "right"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigar"
+    }
+  ]
+}

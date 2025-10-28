@@ -1,0 +1,40 @@
+{
+  "metadataId": 2235,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2235.png",
+  "name": "Lil Mfers #2235",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "sheep"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "baseball cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "chin strap beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "tshirt black"
+    }
+  ]
+}

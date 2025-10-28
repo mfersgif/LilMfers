@@ -1,0 +1,40 @@
+{
+  "metadataId": 1587,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1587.png",
+  "name": "Lil Mfers #1587",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "sheep"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cow hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "royale beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LM shirt blue"
+    }
+  ]
+}

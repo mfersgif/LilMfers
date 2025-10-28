@@ -1,0 +1,32 @@
+{
+  "metadataId": 2003,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2003.png",
+  "name": "Lil Mfers #2003",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow lime"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "penguin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "duck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "left"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "gas mask"
+    }
+  ]
+}

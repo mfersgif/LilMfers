@@ -1,0 +1,40 @@
+{
+  "metadataId": 2253,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2253.png",
+  "name": "Lil Mfers #2253",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "rectangular glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "short hair brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "chin strap beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LM shirt black"
+    }
+  ]
+}

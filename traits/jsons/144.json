@@ -1,0 +1,40 @@
+{
+  "metadataId": 144,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/144.png",
+  "name": "Lil Mfers #144",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "mustard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "blue shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "short hair black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mustache"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hoodie orange"
+    }
+  ]
+}

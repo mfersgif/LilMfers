@@ -1,0 +1,36 @@
+{
+  "metadataId": 1501,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1501.png",
+  "name": "Lil Mfers #1501",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "mustard"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "magician tophat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "astronaut suit"
+    }
+  ]
+}

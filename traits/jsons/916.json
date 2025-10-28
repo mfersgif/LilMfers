@@ -1,0 +1,28 @@
+{
+  "metadataId": 916,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/916.png",
+  "name": "Lil Mfers #916",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "rectangular glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "solid beard"
+    }
+  ]
+}

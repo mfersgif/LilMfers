@@ -1,0 +1,36 @@
+{
+  "metadataId": 1846,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1846.png",
+  "name": "Lil Mfers #1846",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "wizard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mustache"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hoodie orange"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "metadataId": 3078,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/3078.png",
+  "name": "Lil Mfers #3078",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "beaded dreads"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "solid beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "sweater"
+    }
+  ]
+}

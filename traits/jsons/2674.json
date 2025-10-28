@@ -1,0 +1,36 @@
+{
+  "metadataId": 2674,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2674.png",
+  "name": "Lil Mfers #2674",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "red shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "multi hats"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "regular"
+    },
+    {
+      "trait_type": "Body",
+      "value": "tshirt white"
+    }
+  ]
+}

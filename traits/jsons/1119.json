@@ -1,0 +1,28 @@
+{
+  "metadataId": 1119,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1119.png",
+  "name": "Lil Mfers #1119",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow grey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "joker"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Head",
+      "value": "umbrella hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "varsity jacket black"
+    }
+  ]
+}

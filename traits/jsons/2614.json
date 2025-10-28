@@ -1,0 +1,40 @@
+{
+  "metadataId": 2614,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2614.png",
+  "name": "Lil Mfers #2614",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "tv"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "magician tophat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hoodie white"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadataId": 711,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/711.png",
+  "name": "Lil Mfers #711",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "pipe"
+    }
+  ]
+}

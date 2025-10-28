@@ -1,0 +1,40 @@
+{
+  "metadataId": 2221,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2221.png",
+  "name": "Lil Mfers #2221",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "chin strap beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hoodie black"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadataId": 1549,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1549.png",
+  "name": "Lil Mfers #1549",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow grey"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "rectangular glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cap teal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "regular"
+    },
+    {
+      "trait_type": "Body",
+      "value": "track jacket yellow"
+    }
+  ]
+}

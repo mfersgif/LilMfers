@@ -1,0 +1,40 @@
+{
+  "metadataId": 2680,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2680.png",
+  "name": "Lil Mfers #2680",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "stove"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "short hair black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mustache"
+    },
+    {
+      "trait_type": "Body",
+      "value": "varsity jacket black"
+    }
+  ]
+}

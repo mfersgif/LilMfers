@@ -1,0 +1,32 @@
+{
+  "metadataId": 851,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/851.png",
+  "name": "Lil Mfers #851",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "mustard"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "halloween"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Head",
+      "value": "party hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "track jacket blue"
+    }
+  ]
+}

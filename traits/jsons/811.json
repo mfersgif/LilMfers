@@ -1,0 +1,36 @@
+{
+  "metadataId": 811,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/811.png",
+  "name": "Lil Mfers #811",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "short hair black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "track jacket white"
+    }
+  ]
+}

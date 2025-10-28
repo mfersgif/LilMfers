@@ -1,0 +1,40 @@
+{
+  "metadataId": 2829,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2829.png",
+  "name": "Lil Mfers #2829",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "sheep"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "blue shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cap red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "regular"
+    },
+    {
+      "trait_type": "Body",
+      "value": "magician"
+    }
+  ]
+}

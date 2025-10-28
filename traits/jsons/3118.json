@@ -1,0 +1,40 @@
+{
+  "metadataId": 3118,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/3118.png",
+  "name": "Lil Mfers #3118",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "earring"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "rectangular glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "beanie black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "solid beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "magician"
+    }
+  ]
+}

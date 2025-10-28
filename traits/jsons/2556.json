@@ -1,0 +1,40 @@
+{
+  "metadataId": 2556,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2556.png",
+  "name": "Lil Mfers #2556",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "tv"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses black"
+    },
+    {
+      "trait_type": "Head",
+      "value": "chef hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hoodie orange"
+    }
+  ]
+}

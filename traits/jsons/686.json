@@ -1,0 +1,40 @@
+{
+  "metadataId": 686,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/686.png",
+  "name": "Lil Mfers #686",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "bucket hat green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "royale beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "haker"
+    }
+  ]
+}

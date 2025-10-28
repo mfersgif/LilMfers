@@ -1,0 +1,32 @@
+{
+  "metadataId": 2361,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2361.png",
+  "name": "Lil Mfers #2361",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "regular"
+    }
+  ]
+}

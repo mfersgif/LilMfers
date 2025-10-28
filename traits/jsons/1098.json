@@ -1,0 +1,24 @@
+{
+  "metadataId": 1098,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1098.png",
+  "name": "Lil Mfers #1098",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow teal"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "sheep"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "joker"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak blue"
+    }
+  ]
+}

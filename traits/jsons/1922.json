@@ -1,0 +1,40 @@
+{
+  "metadataId": 1922,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1922.png",
+  "name": "Lil Mfers #1922",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow yellow"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "tv"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "right"
+    },
+    {
+      "trait_type": "Head",
+      "value": "beanie green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mustache"
+    },
+    {
+      "trait_type": "Body",
+      "value": "track jacket yellow"
+    }
+  ]
+}

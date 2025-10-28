@@ -1,0 +1,40 @@
+{
+  "metadataId": 1850,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1850.png",
+  "name": "Lil Mfers #1850",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "tv"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cap white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mustache"
+    },
+    {
+      "trait_type": "Body",
+      "value": "haker"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadataId": 2158,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2158.png",
+  "name": "Lil Mfers #2158",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "epic beard"
+    }
+  ]
+}

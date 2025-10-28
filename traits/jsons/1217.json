@@ -1,0 +1,32 @@
+{
+  "metadataId": 1217,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1217.png",
+  "name": "Lil Mfers #1217",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "teddybear"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "duck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "chin strap beard"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadataId": 2770,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2770.png",
+  "name": "Lil Mfers #2770",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eye mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "bucket hat green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "royale beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "magician"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "metadataId": 891,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/891.png",
+  "name": "Lil Mfers #891",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "magician tophat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "solid beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "baseball jersey"
+    }
+  ]
+}

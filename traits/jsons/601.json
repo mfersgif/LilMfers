@@ -1,0 +1,36 @@
+{
+  "metadataId": 601,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/601.png",
+  "name": "Lil Mfers #601",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "blue shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "straw boater"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "royale beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "farmer"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadataId": 135,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/135.png",
+  "name": "Lil Mfers #135",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "duck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "left"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "epic beard"
+    }
+  ]
+}

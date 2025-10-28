@@ -1,0 +1,36 @@
+{
+  "metadataId": 2683,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2683.png",
+  "name": "Lil Mfers #2683",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "bunny white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "solid beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "artist"
+    }
+  ]
+}

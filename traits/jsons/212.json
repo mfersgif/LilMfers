@@ -1,0 +1,40 @@
+{
+  "metadataId": 212,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/212.png",
+  "name": "Lil Mfers #212",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow lime"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "teddybear"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eye mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "jester hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "pipe"
+    },
+    {
+      "trait_type": "Body",
+      "value": "varsity jacket green"
+    }
+  ]
+}

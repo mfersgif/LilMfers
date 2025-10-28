@@ -1,0 +1,40 @@
+{
+  "metadataId": 579,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/579.png",
+  "name": "Lil Mfers #579",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ski cap red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "solid beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "tshirt yellow"
+    }
+  ]
+}

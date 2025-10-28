@@ -1,0 +1,44 @@
+{
+  "metadataId": 2357,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2357.png",
+  "name": "Lil Mfers #2357",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow teal"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "right"
+    },
+    {
+      "trait_type": "Head",
+      "value": "bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "magician"
+    }
+  ]
+}

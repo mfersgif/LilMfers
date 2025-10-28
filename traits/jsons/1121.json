@@ -1,0 +1,40 @@
+{
+  "metadataId": 1121,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1121.png",
+  "name": "Lil Mfers #1121",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "penguin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cap red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "epic beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "artist"
+    }
+  ]
+}

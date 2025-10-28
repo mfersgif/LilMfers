@@ -1,0 +1,40 @@
+{
+  "metadataId": 163,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/163.png",
+  "name": "Lil Mfers #163",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow lime"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "penguin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses black"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cap red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "chin strap beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "tshirt red"
+    }
+  ]
+}

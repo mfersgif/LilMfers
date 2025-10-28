@@ -1,0 +1,28 @@
+{
+  "metadataId": 1700,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1700.png",
+  "name": "Lil Mfers #1700",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "peach"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "joker"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Head",
+      "value": "cap red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "varsity jacket red"
+    }
+  ]
+}

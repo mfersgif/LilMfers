@@ -1,0 +1,28 @@
+{
+  "metadataId": 1396,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1396.png",
+  "name": "Lil Mfers #1396",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "bear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "grey shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "solid beard"
+    }
+  ]
+}

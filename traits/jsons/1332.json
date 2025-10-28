@@ -1,0 +1,28 @@
+{
+  "metadataId": 1332,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1332.png",
+  "name": "Lil Mfers #1332",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "halloween"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Head",
+      "value": "beaded dreads"
+    },
+    {
+      "trait_type": "Body",
+      "value": "varsity jacket red"
+    }
+  ]
+}

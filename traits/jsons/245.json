@@ -1,0 +1,36 @@
+{
+  "metadataId": 245,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/245.png",
+  "name": "Lil Mfers #245",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "right"
+    },
+    {
+      "trait_type": "Head",
+      "value": "beanie red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "gas mask"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LM shirt black"
+    }
+  ]
+}

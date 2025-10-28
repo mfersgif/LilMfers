@@ -1,0 +1,20 @@
+{
+  "metadataId": 2012,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2012.png",
+  "name": "Lil Mfers #2012",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "joker"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak black"
+    }
+  ]
+}

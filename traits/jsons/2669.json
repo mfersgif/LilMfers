@@ -1,0 +1,28 @@
+{
+  "metadataId": 2669,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2669.png",
+  "name": "Lil Mfers #2669",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "chin strap beard"
+    }
+  ]
+}

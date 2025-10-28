@@ -1,0 +1,40 @@
+{
+  "metadataId": 2905,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2905.png",
+  "name": "Lil Mfers #2905",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow teal"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "tv"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "orange shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "afro hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "epic beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "haker"
+    }
+  ]
+}

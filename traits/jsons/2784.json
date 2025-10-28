@@ -1,0 +1,32 @@
+{
+  "metadataId": 2784,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2784.png",
+  "name": "Lil Mfers #2784",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "bear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "orange shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "regular"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadataId": 1409,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1409.png",
+  "name": "Lil Mfers #1409",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eye mask"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigar"
+    }
+  ]
+}

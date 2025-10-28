@@ -1,0 +1,20 @@
+{
+  "metadataId": 217,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/217.png",
+  "name": "Lil Mfers #217",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "joker"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak red"
+    }
+  ]
+}

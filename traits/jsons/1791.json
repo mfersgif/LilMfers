@@ -1,0 +1,28 @@
+{
+  "metadataId": 1791,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1791.png",
+  "name": "Lil Mfers #1791",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "peach"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "bear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "epic beard"
+    }
+  ]
+}

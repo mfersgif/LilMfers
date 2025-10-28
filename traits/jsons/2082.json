@@ -1,0 +1,32 @@
+{
+  "metadataId": 2082,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/2082.png",
+  "name": "Lil Mfers #2082",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow grey"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "joker"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Head",
+      "value": "mcdonald"
+    },
+    {
+      "trait_type": "Body",
+      "value": "track jacket white"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadataId": 1783,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1783.png",
+  "name": "Lil Mfers #1783",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "mustard"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "joker"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "white"
+    },
+    {
+      "trait_type": "Head",
+      "value": "bunny black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "hoodie white"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "metadataId": 1156,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1156.png",
+  "name": "Lil Mfers #1156",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "cloak black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round glasses black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "royale beard"
+    }
+  ]
+}

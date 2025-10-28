@@ -1,0 +1,36 @@
+{
+  "metadataId": 96,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/96.png",
+  "name": "Lil Mfers #96",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "glow blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "fair"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "rectangular glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "baseball cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "gas mask"
+    },
+    {
+      "trait_type": "Body",
+      "value": "leader jacket"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "metadataId": 1056,
+  "image": "ipfs://bafybeicdg72v6jojy4oqlcwxwqys5jtnm3lygqpmn32hahmgfdi2h5r32a/1056.png",
+  "name": "Lil Mfers #1056",
+  "description": "Lil Mfers",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "robot"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "halloween"
+    },
+    {
+      "trait_type": "Costumes",
+      "value": "duck"
+    }
+  ]
+}
