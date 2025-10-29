@@ -24,7 +24,7 @@ const TRAITS = {
   ],
 
   Costumes: [
-    "-","cloak blue.png","cloak black.png","cloak red.png","bear.png","duck.png","shark.png"
+    "-","cloak blue.png","cloak black.png","cloak red.png","bear.png","duck.png","shark.png","warplet.png"
   ],
 
   Skin: [
