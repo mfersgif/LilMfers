@@ -20,7 +20,7 @@ const TRAITS = {
     "artist.png","florist.png","varsity jacket green.png","varsity jacket red.png",
     "varsity jacket black.png","track jacket white.png","track jacket blue.png",
     "track jacket yellow.png","astronaut suit.png","leader jacket.png","farmer.png",
-    "haker.png","sweater.png","magician.png"
+    "haker.png","sweater.png","magician.png","suit.png","pajama blue.png","pajama pink.png"
   ],
 
   Costumes: [
@@ -54,7 +54,7 @@ const TRAITS = {
     "punk.png","beaded dreads.png","pizza.png","flat hat.png","bowler hat.png","captain.png",
     "fox hat.png","short hair brown.png","short hair black.png","long hair.png","bald.png",
     "mohawk.png","multi hats.png","postman.png","headband.png","afro hair.png","straw boater.png",
-    "ice cream cart.png","mcdonald.png","steampunk hat.png","jester hat.png"
+    "ice cream cart.png","mcdonald.png","steampunk hat.png","jester hat.png","pajama hat blue.png","pajama hat pink.png"
   ],
 
   Headphones: [
