@@ -20,7 +20,7 @@ const TRAITS = {
     "artist.png","florist.png","varsity jacket green.png","varsity jacket red.png",
     "varsity jacket black.png","track jacket white.png","track jacket blue.png",
     "track jacket yellow.png","astronaut suit.png","leader jacket.png","farmer.png",
-    "haker.png","sweater.png","magician.png","suit.png","pajama blue.png","pajama pink.png"
+    "haker.png","sweater.png","magician.png","suit.png","pajama blue.png","pajama pink.png","jeans"
   ],
 
   Costumes: [
